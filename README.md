@@ -1,4 +1,4 @@
-# Hola, soy Fabrizio Chipana
+# Fabrizio Chipana · Portafolio profesional
 
 **Analista de Proyectos TI con perfil full-stack de negocio** · SAP · Business Intelligence · Automatización · Desarrollo web y móvil
 
